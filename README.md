@@ -1,4 +1,4 @@
-#Los Datos del CSV residuoData.csv
+# Los Datos del CSV residuoData.csv
 ## En total existen 12 columnas de las cuales cada una tiene la siguiente informacion
 1.	Commod. Código de producto (2 letras) para el producto recolectado. Se especifica a todos los datos de los alimentos analizados como, por ejemplo: AP=Apples, TO=Tomatoes.
 2.	CommType. Código para el tipo de producto, por ejemplo: CA=Cranberries.
